@@ -18,3 +18,4 @@ SELECT
         OR
         (job_title_short = 'Business Analyst' AND salary_year_avg > 70000)
      ) 
+isha
